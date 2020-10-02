@@ -10,21 +10,12 @@ import Certificados from './pages/certificates/certificados.view';
 
 function App() {
   return (
-    <Router>
-      <Switch>
-        <Route exact path ='/'>
           <div className={styles.contenedor}>
             <img src={MarcosIraola} className={styles.imagenPerfil}/>
             <CvPage/>
             <span className={styles.fulltime}>AVAILABLE FULL TIME | PART TIME</span>
             <DescargarPDF/>
           </div>
-        </Route>
-        <Route path='/certificates'>
-          <Certificados/>
-        </Route>
-      </Switch>
-    </Router>
   );
 }
 

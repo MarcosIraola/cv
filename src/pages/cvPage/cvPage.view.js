@@ -7,7 +7,6 @@ import ExperienciaProfesional from '../../components/experiencia/experiencia.vie
 import Idiomas from '../../components/idiomas/idiomas.view';
 import OtrasExperiencias from '../../components/otrasExperiencias/otrasExperiencias.view';
 import MondoDiCromo from '../../components/mondo/mondo.view';
-import DescargarPDF from '../../components/DescargarPDF/descargar.view';
 
 function CvPage() {
   return (
