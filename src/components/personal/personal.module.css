@@ -1,0 +1,45 @@
+.contenedor {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.imagenPerfil {
+    width: 190px;
+    height: 191px;
+    margin: 20px auto 0 auto;
+}
+
+.contenedor h1 {
+    color:#1f5a88;
+    margin-bottom: 0;
+}
+
+.contenedor h2 {
+    color:#1f5a88;
+    margin-top: 3px;
+    font-size: 19px;
+}
+
+.info {
+    color: black;
+    margin: 2px 0 2px 0;
+}
+
+.contenedor_social {
+    margin-top: 20px;
+}
+
+.social_logo {
+    margin: 0 2px 0 2px;
+    padding: 15px 8px 8px 8px;
+    text-decoration: none;
+    color:#1f5a88;
+    border-radius: 60px;
+    transition: 0.3s;
+}
+
+.social_logo:hover {
+    background-color: #1f5a88;
+    color: white;
+}

@@ -1,0 +1,34 @@
+.contenedor {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.contenedor h1 {
+    color:#1f5a88;
+    margin-bottom: 0;
+}
+
+.contenedor h2 {
+    color:#1f5a88;
+    margin-top: 10px;
+    margin-bottom: 0;
+    font-size: 22px;
+}
+
+.proyecto {
+    margin-top: 2px;
+}
+
+.contenedor_logos{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    margin: 5px auto 10px auto;
+}
+
+.logos {
+    width: 27px;
+    height: 27px;
+    margin: 3px;
+}

@@ -1,0 +1,14 @@
+.contenedor {
+    margin: 0 auto 50px auto;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+  }
+  
+  .columnaIzquierda {
+    width: 50%;
+  }
+  
+  .columnaDerecha {
+    width: 50%;
+  }
