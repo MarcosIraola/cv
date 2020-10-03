@@ -21,3 +21,23 @@
     flex-direction: row;
     margin: 0 auto;
 }
+
+@media only screen and (max-width: 768px) {
+
+    .logos {
+        height: 60px;
+        width: 60px;
+        margin: 7px 4px 7px 4px;
+    }
+
+}
+
+@media only screen and (max-width: 430px) {
+
+    .logos {
+        height: 50px;
+        width: 50px;
+        margin: 7px 4px 7px 4px;
+    }
+
+}

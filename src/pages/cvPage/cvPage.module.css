@@ -12,3 +12,22 @@
   .columnaDerecha {
     width: 50%;
   }
+
+  @media only screen and (max-width: 768px) {
+
+    .contenedor {
+      margin: 0 auto 50px auto;
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+    }
+    
+    .columnaIzquierda {
+      width: 100%;
+    }
+    
+    .columnaDerecha {
+      width: 100%;
+    }
+
+  }
