@@ -42,7 +42,7 @@ const ExperienciaProfesional = () => {
 
             <h2>2020: Roomi</h2>
             <span className={styles.proyecto}>Final project of Nuclio Digital School.</span>
-            <span>A room renting web aplication.</span>
+            <span>A room renting web application.</span>
             <div className={styles.contenedor_logos}>
                 <img src={html} alt='html' className={styles.logos}/>
                 <img src={css} className={styles.logos}/>
@@ -55,7 +55,7 @@ const ExperienciaProfesional = () => {
 
             <h2>2018: PurpleSound</h2>
             <span className={styles.proyecto}>Final project of Digital House.</span>
-            <span>Music straming app.</span>
+            <span>Music streaming app.</span>
             <div className={styles.contenedor_logos}>
                 <img src={java} className={styles.logos}/>
                 <img src={android} className={styles.logos}/>
