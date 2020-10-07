@@ -10,7 +10,7 @@ const DescargarPDF = () => {
 
     return (
         <div className={styles.contenedor}>
-            <a href="./assets/CV.pdf" download="CV.pdf"  className={styles.texto}><Download size={13}/> Download as .pdf</a>
+            <a src="./assets/CV.pdf" download="CV.pdf"  className={styles.texto}><Download size={13}/> Download as .pdf</a>
         </div>
     );
 };
