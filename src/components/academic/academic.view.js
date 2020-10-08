@@ -17,7 +17,7 @@ const AcademicHistory = () => {
             <span>Multimedial design</span>
 
             <h2>Pilgrims College'</h2>
-            <span>Bilingüal high school</span>
+            <span>Bilingual high school</span>
         </div>
     );
 };

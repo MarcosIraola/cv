@@ -10,7 +10,7 @@ const Idiomas = () => {
             <h2>English</h2>
             <span>Advanced oral and writing</span>
             <span>Bilingüal primary and high school</span>
-            <span>IGSCE exams completed</span>
+            <span>IGCSE exams completed</span>
 
             <h2>Spanish</h2>
             <span>Native</span>
