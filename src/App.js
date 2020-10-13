@@ -13,7 +13,7 @@ function App() {
             <img src={MarcosIraola} className={styles.imagenPerfil}/>
             <CvPage/>
             <span className={styles.fulltime}>AVAILABLE FULL TIME | PART TIME</span>
-            <DescargarPDF/>
+            
           </div>
   );
 }
