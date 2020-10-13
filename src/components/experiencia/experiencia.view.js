@@ -42,7 +42,7 @@ const ExperienciaProfesional = () => {
 
             <h2>2020: Roomi</h2>
             <span className={styles.proyecto}>Final project of Nuclio Digital School.</span>
-            <span>A room renting web application.</span>
+            <span>An application to rent a room.</span>
             <div className={styles.contenedor_logos}>
                 <img src={html} alt='html' className={styles.logos}/>
                 <img src={css} className={styles.logos}/>

@@ -11,7 +11,7 @@ const Personal = () => {
             <h1>Marcos Iraola</h1>
             <h2>Full Stack Developer</h2>
             
-            <span className={styles.info}>Birthdate: 01/07/1993</span>
+            <span className={styles.info}>Date of birth: 01/07/1993</span>
             <span className={styles.info}>Buenos Aires, Argentina.</span>
             <span className={styles.info}><Phone size={15}/> +34 685 699 615</span>
             <span className={styles.info}><Mail size={14}/> iraolamarcos@gmail.com</span>

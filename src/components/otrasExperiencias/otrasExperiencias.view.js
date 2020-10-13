@@ -15,7 +15,7 @@ const OtrasExperiencias = () => {
             <span>Graphic and audiovisual designer.</span>
 
             <h2>2014-2016: MG54</h2>
-            <span>Account assistant in a marketing digital agency.</span>
+            <span>Account assistant in a digital marketing agency.</span>
         </div>
     );
 };
