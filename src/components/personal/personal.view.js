@@ -16,8 +16,7 @@ const Personal = () => {
             <span className={styles.info}><Phone size={15}/> +34 685 699 615</span>
             <span className={styles.info}><Mail size={14}/> iraolamarcos@gmail.com</span>
             <br/>
-            <span className={styles.info}><strong>Currently in: Barcelona, Spain</strong></span>
-            <span className={styles.info}>Carrer de Pujades 52, 08005</span>
+            <span className={styles.info}><strong>Currently in: Buenos Aires, Argentina</strong></span>
 
             <div className={styles.contenedor_social}>
                 <a href='https://www.linkedin.com/in/marcos-iraola-a26321158/' target="_blank" className={styles.social_logo}><Linkedin/></a>

@@ -7,6 +7,9 @@ const AcademicHistory = () => {
         <div className={styles.contenedor}>
             <h1>Academic History</h1>
 
+            <h2>HarvardX: CS50W (currently studying)</h2>
+            <span>CS50's Web Programming with Python</span>
+
             <h2>Nuclio Digital School</h2>
             <span>Full stack development master</span>
 
