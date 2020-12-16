@@ -13,7 +13,7 @@ const Personal = () => {
             
             <span className={styles.info}>Date of birth: 01/07/1993</span>
             <span className={styles.info}>Buenos Aires, Argentina.</span>
-            <span className={styles.info}><Phone size={15}/> +34 685 699 615</span>
+            <span className={styles.info}><Phone size={15}/> +54 9 11 3257 5447</span>
             <span className={styles.info}><Mail size={14}/> iraolamarcos@gmail.com</span>
             <br/>
             <span className={styles.info}><strong>Currently in: Buenos Aires, Argentina</strong></span>
