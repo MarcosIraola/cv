@@ -6,12 +6,12 @@
 }
 
 .contenedor h1 {
-    color:#1f5a88;
+    color:#558d02;
     margin-bottom: 0;
 }
 
 .contenedor h2 {
-    color:#1f5a88;
+    color:#558d02;
     margin-top: 10px;
     margin-bottom: 0;
     font-size: 19px;
@@ -20,22 +20,23 @@
 p {
     width: 70%;
     margin: 5px auto 0 auto;
+    color: rgb(211, 211, 211);
 }
 
 .social_logo {
     margin: 8px auto 4px auto;
     padding: 6px 6px 5px 6px;
     text-decoration: none;
-    color:#1f5a88;
+    color:#558d02;
     border-radius: 20px;
     transition: 0.3s;
 }
 
 .social_logo:hover {
-    background-color: #1f5a88;
+    background-color: #558d02;
     color: white;
 }
 
 .insta {
-    color: #1f5a88;
+    color: #558d02;
 }
