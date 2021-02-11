@@ -19,7 +19,6 @@ const ExperienciaProfesional = () => {
 
             <h2>2020: Personal project</h2>
             <span className={styles.proyecto}>Developing a full project.</span>
-            <span>A personal project working with my family.<br/> Im leading all the development.</span>
             <div className={styles.contenedor_logos}>
                 <img src={html} className={styles.logos}/>
                 <img src={css} className={styles.logos}/>
