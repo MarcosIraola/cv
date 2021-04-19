@@ -8,21 +8,23 @@ import Idiomas from '../../components/idiomas/idiomas.view';
 import OtrasExperiencias from '../../components/otrasExperiencias/otrasExperiencias.view';
 import MondoDiCromo from '../../components/mondo/mondo.view';
 
-function CvPage() {
+function CvPage({language}) {
+
   return (
     <div className={styles.contenedor}>
+
       
       <div className={styles.columnaIzquierda}>
-        <Personal/>
-        <Skills/>
-        <AcademicHistory/>
-        <Idiomas/>
+        <Personal idioma={language}/>
+        <Skills idioma={language}/>
+        <AcademicHistory idioma={language}/>
+        <Idiomas idioma={language}/>
       </div>
 
       <div className={styles.columnaDerecha}>
-        <ExperienciaProfesional/>
-        <OtrasExperiencias/>
-        <MondoDiCromo/>
+        <ExperienciaProfesional idioma={language}/>
+        <OtrasExperiencias idioma={language}/>
+        <MondoDiCromo idioma={language}/>
       </div>
 
     </div>

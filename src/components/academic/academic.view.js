@@ -1,10 +1,13 @@
 import React from 'react';
 import styles from './academic.module.css'
 
-const AcademicHistory = () => {
+const AcademicHistory = ({idioma}) => {
 
     return (
         <div className={styles.contenedor}>
+
+            {idioma == 'EN' ?
+            <>
             <h1>Academic History</h1>
 
             <h2>HarvardX: CS50W (in progress)</h2>
@@ -21,6 +24,27 @@ const AcademicHistory = () => {
 
             <h2>Pilgrims College'</h2>
             <span>Bilingual high school</span>
+            </>
+            :
+            <>
+            <h1>Historia Academica</h1>
+
+            <h2>HarvardX: CS50W (en progreso)</h2>
+            <span>CS50's Programacion web con Python</span>
+
+            <h2>Nuclio Digital School</h2>
+            <span>Desarrollo Full Stack</span>
+
+            <h2>Digital House</h2>
+            <span>Desarrollo de aplicaciones móviles <br></br> Java & Android</span>
+
+            <h2>Escuela Da Vinci</h2>
+            <span>Diseño multimedial</span>
+
+            <h2>Pilgrims College'</h2>
+            <span>Colegio bilingüe</span>
+            </>
+            }
         </div>
     );
 };

@@ -23,7 +23,7 @@ p {
     width: 70%;
     margin: 5px auto 0 auto;
     color: black;
-    font-size: 'Roboto';
+    font-family: 'Roboto';
 }
 
 .social_logo {

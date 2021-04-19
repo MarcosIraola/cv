@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
 .contenedor {
     display: flex;
     flex-direction: column;
@@ -17,13 +19,14 @@
 
 .contenedor h2 {
     color:#1f5a88;
-    margin-top: 3px;
+    margin-top: 0px;
     font-size: 19px;
 }
 
 .info {
     color: black;
     margin: 2px 0 2px 0;
+    font-family: 'Roboto';
 }
 
 .contenedor_social {

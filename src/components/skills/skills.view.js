@@ -11,11 +11,18 @@ import ps from '../logos/photoshop.png';
 import premier from '../logos/premier.png';
 import laravel from '../logos/laravel.png';
 
-const Skills = () => {
+const Skills = ({idioma}) => {
+
+    console.log(idioma);
 
     return (
         <div className={styles.contenedor}>
-            <h1>Skills</h1>
+            {idioma == 'EN' ?
+                <h1>Skills</h1>
+                :
+                <h1>Habilidades</h1>
+            }
+            
             <div className={styles.row}>
                 <img src={html} className={styles.logos}/>
                 <img src={css} className={styles.logos}/>
