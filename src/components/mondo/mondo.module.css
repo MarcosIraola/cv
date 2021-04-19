@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
 .contenedor {
     display: flex;
     flex-direction: column;
@@ -6,12 +8,12 @@
 }
 
 .contenedor h1 {
-    color:#558d02;
+    color:#1f5a88;
     margin-bottom: 0;
 }
 
 .contenedor h2 {
-    color:#558d02;
+    color:#1f5a88;
     margin-top: 10px;
     margin-bottom: 0;
     font-size: 19px;
@@ -20,23 +22,24 @@
 p {
     width: 70%;
     margin: 5px auto 0 auto;
-    color: rgb(211, 211, 211);
+    color: black;
+    font-size: 'Roboto';
 }
 
 .social_logo {
     margin: 8px auto 4px auto;
     padding: 6px 6px 5px 6px;
     text-decoration: none;
-    color:#558d02;
+    color:#1f5a88;
     border-radius: 20px;
     transition: 0.3s;
 }
 
 .social_logo:hover {
-    background-color: #558d02;
+    background-color: #133652;
     color: white;
 }
 
 .insta {
-    color: #558d02;
+    color: #1f5a88;
 }

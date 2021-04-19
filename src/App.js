@@ -3,7 +3,7 @@ import styles from './App.module.css'
 import { BrowserRouter as Router, Switch, Route, Redirect } from 'react-router-dom';
 import DescargarPDF from './components/DescargarPDF/descargar.view';
 import Personal from './components/personal/personal.view';
-import MarcosIraola from './components/personal/assets/marcosiraola.png';
+import MarcosIraola from './components/personal/assets/MarcosIraola.png';
 import Certificados from './pages/certificates/certificados.view';
 import CvPage from './pages/cvPage/cvPage.view';
 

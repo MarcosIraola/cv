@@ -17,7 +17,7 @@ const ExperienciaProfesional = () => {
         <div className={styles.contenedor}>
             <h1>Professional experience</h1>
 
-            <h2>2020: Personal project</h2>
+            {/* <h2>2020: Personal project</h2>
             <span className={styles.proyecto}>Developing a full project.</span>
             <div className={styles.contenedor_logos}>
                 <img src={html} className={styles.logos}/>
@@ -27,23 +27,13 @@ const ExperienciaProfesional = () => {
                 <img src={mysql} className={styles.logos}/>
                 <img src={php} className={styles.logos}/>
                 <img src={laravel} className={styles.logos}/>
-            </div>
+            </div> */}
 
-            <h2>2020: Balt Sessions</h2>
-            <span className={styles.proyecto}>Responsive website (in progress).</span>
+            <h2>Currenlty working as a freelancer</h2>
             <span>Web design and development.</span>
+            <span className={styles.proyecto}>Several projects developed.</span>
             <div className={styles.contenedor_logos}>
-                <img src={html} className={styles.logos}/>
-                <img src={css} className={styles.logos}/>
-                <img src={js} className={styles.logos}/>
-                <img src={react} className={styles.logos}/>
-            </div>
-
-            <h2>2020: Santa Pera Market</h2>
-            <span className={styles.proyecto}>Responsive website (in progress).</span>
-            <span>Web design and development.</span>
-            <div className={styles.contenedor_logos}>
-                <img src={html} className={styles.logos}/>
+            <img src={html} alt='html' className={styles.logos}/>
                 <img src={css} className={styles.logos}/>
                 <img src={js} className={styles.logos}/>
                 <img src={react} className={styles.logos}/>

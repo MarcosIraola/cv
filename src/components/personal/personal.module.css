@@ -11,18 +11,18 @@
 }
 
 .contenedor h1 {
-    color:#558d02;
+    color:#1f5a88;
     margin-bottom: 0;
 }
 
 .contenedor h2 {
-    color:#558d02;
+    color:#1f5a88;
     margin-top: 3px;
     font-size: 19px;
 }
 
 .info {
-    color: rgb(211, 211, 211);
+    color: black;
     margin: 2px 0 2px 0;
 }
 
@@ -35,12 +35,12 @@
     margin: 0 2px 0 2px;
     padding: 15px 8px 8px 8px;
     text-decoration: none;
-    color:#558d02;
+    color:#1f5a88;
     border-radius: 60px;
     transition: 0.3s;
 }
 
 .social_logo:hover {
-    background-color: #558d02;
+    background-color: #1f5a88;
     color: white;
 }
