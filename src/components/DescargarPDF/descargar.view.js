@@ -6,10 +6,6 @@ import CV_ES from './assets/MarcosIraolaES.pdf';
 
 const DescargarPDF = ({idioma}) => {
 
-    function descargarPDF() {
-
-    };
-
     return (
         <div className={styles.contenedor}>
             {idioma == 'EN' ?
