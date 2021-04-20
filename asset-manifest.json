@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/cv/static/css/main.c2cbcd45.chunk.css",
-    "main.js": "/cv/static/js/main.8f99af97.chunk.js",
-    "main.js.map": "/cv/static/js/main.8f99af97.chunk.js.map",
+    "main.css": "/cv/static/css/main.26962a50.chunk.css",
+    "main.js": "/cv/static/js/main.e8623b62.chunk.js",
+    "main.js.map": "/cv/static/js/main.e8623b62.chunk.js.map",
     "runtime-main.js": "/cv/static/js/runtime-main.c17789b0.js",
     "runtime-main.js.map": "/cv/static/js/runtime-main.c17789b0.js.map",
     "static/css/2.767b8a0c.chunk.css": "/cv/static/css/2.767b8a0c.chunk.css",
-    "static/js/2.f205a112.chunk.js": "/cv/static/js/2.f205a112.chunk.js",
-    "static/js/2.f205a112.chunk.js.map": "/cv/static/js/2.f205a112.chunk.js.map",
+    "static/js/2.5f49998b.chunk.js": "/cv/static/js/2.5f49998b.chunk.js",
+    "static/js/2.5f49998b.chunk.js.map": "/cv/static/js/2.5f49998b.chunk.js.map",
     "index.html": "/cv/index.html",
-    "precache-manifest.c429c8fa700ae0f845629e7878948758.js": "/cv/precache-manifest.c429c8fa700ae0f845629e7878948758.js",
+    "precache-manifest.83d573276fc7468f915d8d6d356e3b57.js": "/cv/precache-manifest.83d573276fc7468f915d8d6d356e3b57.js",
     "service-worker.js": "/cv/service-worker.js",
     "static/css/2.767b8a0c.chunk.css.map": "/cv/static/css/2.767b8a0c.chunk.css.map",
-    "static/css/main.c2cbcd45.chunk.css.map": "/cv/static/css/main.c2cbcd45.chunk.css.map",
-    "static/js/2.f205a112.chunk.js.LICENSE.txt": "/cv/static/js/2.f205a112.chunk.js.LICENSE.txt",
+    "static/css/main.26962a50.chunk.css.map": "/cv/static/css/main.26962a50.chunk.css.map",
+    "static/js/2.5f49998b.chunk.js.LICENSE.txt": "/cv/static/js/2.5f49998b.chunk.js.LICENSE.txt",
     "static/media/MarcosIraola.png": "/cv/static/media/MarcosIraola.797714c0.png",
+    "static/media/MarcosIraolaEN.pdf": "/cv/static/media/MarcosIraolaEN.a2292c40.pdf",
+    "static/media/MarcosIraolaES.pdf": "/cv/static/media/MarcosIraolaES.31b5e63d.pdf",
     "static/media/android.png": "/cv/static/media/android.477b0618.png",
     "static/media/css.png": "/cv/static/media/css.75e4d6d5.png",
     "static/media/firebase.png": "/cv/static/media/firebase.1da029b3.png",
@@ -31,8 +33,8 @@
   "entrypoints": [
     "static/js/runtime-main.c17789b0.js",
     "static/css/2.767b8a0c.chunk.css",
-    "static/js/2.f205a112.chunk.js",
-    "static/css/main.c2cbcd45.chunk.css",
-    "static/js/main.8f99af97.chunk.js"
+    "static/js/2.5f49998b.chunk.js",
+    "static/css/main.26962a50.chunk.css",
+    "static/js/main.e8623b62.chunk.js"
   ]
 }
