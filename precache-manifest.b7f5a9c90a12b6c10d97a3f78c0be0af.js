@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "662bfb89553fc72c29b5bb48291af42d",
+    "revision": "6d79b67da3400c23ee8b32dee4745547",
     "url": "/cv/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cv/static/css/2.767b8a0c.chunk.css"
   },
   {
-    "revision": "90e5a514408cd310fa35",
+    "revision": "ce339cc428f3fd430a41",
     "url": "/cv/static/css/main.26962a50.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cv/static/js/2.5f49998b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "90e5a514408cd310fa35",
-    "url": "/cv/static/js/main.d91e170d.chunk.js"
+    "revision": "ce339cc428f3fd430a41",
+    "url": "/cv/static/js/main.27c3a362.chunk.js"
   },
   {
     "revision": "9e0e921495960402e4a4",
@@ -32,12 +32,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cv/static/media/MarcosIraola.797714c0.png"
   },
   {
-    "revision": "a2292c4094b3e410ef37279636651064",
-    "url": "/cv/static/media/MarcosIraolaEN.a2292c40.pdf"
+    "revision": "5185bf017541cde42f855e3e607725e7",
+    "url": "/cv/static/media/MarcosIraolaEN.5185bf01.pdf"
   },
   {
-    "revision": "31b5e63d584227d012c2796d0ea32e2d",
-    "url": "/cv/static/media/MarcosIraolaES.31b5e63d.pdf"
+    "revision": "9defff79ee63f8dd786befdc08025f84",
+    "url": "/cv/static/media/MarcosIraolaES.9defff79.pdf"
   },
   {
     "revision": "477b0618a55c3bb16c5b6de887959296",
