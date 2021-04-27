@@ -19,7 +19,7 @@ const ExperienciaProfesional = ({idioma}) => {
             <>
             <h1>Professional experience</h1>
 
-            <h2>Currenlty working as a freelancer</h2>
+            <h2>2020 - now: as a freelancer</h2>
             <span>Web design and development.</span>
             <span className={styles.proyecto}>Several projects developed.</span>
             <div className={styles.contenedor_logos}>
@@ -59,7 +59,7 @@ const ExperienciaProfesional = ({idioma}) => {
             <>
             <h1>Experiencia Profesional</h1>
 
-            <h2>Actualmente como freelancer</h2>
+            <h2>2020 - : como freelancer</h2>
             <span>Diseño web e implementación.</span>
             <span className={styles.proyecto}>Varios proyectos desarrollados.</span>
             <div className={styles.contenedor_logos}>
