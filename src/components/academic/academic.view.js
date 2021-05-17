@@ -22,8 +22,8 @@ const AcademicHistory = ({idioma}) => {
             <h2>Pilgrims College'</h2>
             <span>Bilingual high school</span>
 
-            <h2>Extra: Udemy (in progress)</h2>
-            <span>Angular: from 0 to expert</span>
+            <h2>Others</h2>
+            <span>ITBA: Introducion to Bitcoin, cryptocurrencies, Blockchain & smart contracts</span>
             </>
             :
             <>
@@ -44,8 +44,8 @@ const AcademicHistory = ({idioma}) => {
             <h2>Pilgrims College'</h2>
             <span>Colegio bilingüe</span>
 
-            <h2>Extra: Udemy (en progreso)</h2>
-            <span>Angular: de 0 a experto</span>
+            <h2>Otros</h2>
+            <span>ITBA: Introducción a Bitcoin, criptomonedas, Blockchain & contratos inteligentes</span>
             </>
             }
         </div>
