@@ -45,7 +45,7 @@ const AcademicHistory = ({idioma}) => {
             <span>Colegio bilingüe</span>
 
             <h2>Otros</h2>
-            <span>ITBA: Introducción a Bitcoin, criptomonedas, Blockchain & contratos inteligentes</span>
+            <span>ITBA: Introducción a Bitcoin, <br></br> criptomonedas, Blockchain & contratos inteligentes</span>
             </>
             }
         </div>
