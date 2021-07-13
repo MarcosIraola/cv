@@ -10,6 +10,7 @@ import github from '../logos/github.png';
 import ps from '../logos/photoshop.png';
 import premier from '../logos/premier.png';
 import laravel from '../logos/laravel.png';
+import vue from '../logos/vue.png';
 
 const Skills = ({idioma}) => {
 
@@ -27,6 +28,7 @@ const Skills = ({idioma}) => {
                 <img src={html} className={styles.logos}/>
                 <img src={css} className={styles.logos}/>
                 <img src={js} className={styles.logos}/>
+                <img src={vue} className={styles.logos}/>
             </div>
             <div className={styles.row}>
                 <img src={php} className={styles.logos}/>

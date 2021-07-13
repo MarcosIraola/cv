@@ -10,6 +10,7 @@ import laravel from '../logos/laravel.png';
 import java from '../logos/java.png';
 import android from '../logos/android.png';
 import firebase from '../logos/firebase.png';
+import vue from '../logos/vue.pnsg';
 
 const ExperienciaProfesional = ({idioma}) => {
 
@@ -19,11 +20,20 @@ const ExperienciaProfesional = ({idioma}) => {
             <>
             <h1>Professional experience</h1>
 
+            <h2>From July 2021: BitPatagonia</h2>
+            <span>Front end developer.</span>
+            <div className={styles.contenedor_logos}>
+                <img src={html} alt='html' className={styles.logos}/>
+                <img src={css} className={styles.logos}/>
+                <img src={js} className={styles.logos}/>
+                <img src={vue} className={styles.logos}/>
+            </div>
+
             <h2>2020 - now: as a freelancer</h2>
             <span>Web design and development.</span>
             <span className={styles.proyecto}>Several projects developed.</span>
             <div className={styles.contenedor_logos}>
-            <img src={html} alt='html' className={styles.logos}/>
+                <img src={html} alt='html' className={styles.logos}/>
                 <img src={css} className={styles.logos}/>
                 <img src={js} className={styles.logos}/>
                 <img src={react} className={styles.logos}/>
@@ -59,11 +69,20 @@ const ExperienciaProfesional = ({idioma}) => {
             <>
             <h1>Experiencia Profesional</h1>
 
+            <h2>Desde Julio 2021: BitPatagonia</h2>
+            <span>Front end developer.</span>
+            <div className={styles.contenedor_logos}>
+                <img src={html} alt='html' className={styles.logos}/>
+                <img src={css} className={styles.logos}/>
+                <img src={js} className={styles.logos}/>
+                <img src={vue} className={styles.logos}/>
+            </div>
+
             <h2>2020 - : como freelancer</h2>
             <span>Diseño web e implementación.</span>
             <span className={styles.proyecto}>Varios proyectos desarrollados.</span>
             <div className={styles.contenedor_logos}>
-            <img src={html} alt='html' className={styles.logos}/>
+                <img src={html} alt='html' className={styles.logos}/>
                 <img src={css} className={styles.logos}/>
                 <img src={js} className={styles.logos}/>
                 <img src={react} className={styles.logos}/>
