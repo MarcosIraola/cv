@@ -29,9 +29,6 @@ const AcademicHistory = ({idioma}) => {
             <>
             <h1>Historia Academica</h1>
 
-            <h2>HarvardX: CS50W (en progreso)</h2>
-            <span>CS50's Programacion web con Python</span>
-
             <h2>Nuclio Digital School</h2>
             <span>Desarrollo Full Stack</span>
 
