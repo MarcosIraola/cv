@@ -10,7 +10,7 @@ import laravel from '../logos/laravel.png';
 import java from '../logos/java.png';
 import android from '../logos/android.png';
 import firebase from '../logos/firebase.png';
-import vue from '../logos/vue.pnsg';
+import vue from '../logos/vue.png';
 
 const ExperienciaProfesional = ({idioma}) => {
 

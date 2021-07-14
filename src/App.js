@@ -37,11 +37,11 @@ function App() {
               
               <img src={MarcosIraola} className={styles.imagenPerfil}/>
               <CvPage language={data} />
-              {data == 'EN' ?
+              {/* {data == 'EN' ?
               <span className={styles.fulltime}>AVAILABLE FULL TIME | PART TIME</span>
               :
               <span className={styles.fulltime}>DISPONIBILIDAD FULL TIME | PART TIME</span>
-              }
+              } */}
             </div>
 
           </div>
