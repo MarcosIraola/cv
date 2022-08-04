@@ -23,17 +23,19 @@ const Skills = ({idioma}) => {
                 :
                 <h1>Habilidades</h1>
             }
+            <div className={styles.row}>
+                <img src={react} className={styles.logos}/>
+                <img src={vue} className={styles.logos}/>
+            </div>
             
             <div className={styles.row}>
                 <img src={html} className={styles.logos}/>
                 <img src={css} className={styles.logos}/>
                 <img src={js} className={styles.logos}/>
-                <img src={vue} className={styles.logos}/>
             </div>
             <div className={styles.row}>
                 <img src={php} className={styles.logos}/>
                 <img src={mysql} className={styles.logos}/>
-                <img src={react} className={styles.logos}/>
                 <img src={github} className={styles.logos}/>
             </div>
             <div className={styles.row}>

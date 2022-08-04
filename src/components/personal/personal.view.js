@@ -9,7 +9,7 @@ const Personal = ({idioma}) => {
         <div className={styles.contenedor}>
 
             <h1>Marcos Iraola</h1>
-            <h2>Full Stack Developer</h2>
+            <h2>Front End Developer</h2>
 
             {idioma == 'EN' ?
             <>
