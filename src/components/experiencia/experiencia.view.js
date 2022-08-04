@@ -78,15 +78,17 @@ const ExperienciaProfesional = ({idioma}) => {
                 <img src={css} className={styles.logos}/>
                 <img src={js} className={styles.logos}/>
                 <img src={vue} className={styles.logos}/>
+                <img src={react} className={styles.logos}/>
             </div>
 
             <h2>2020 - : como freelancer</h2>
             <span>Diseño web e implementación.</span>
             <span className={styles.proyecto}>Varios proyectos desarrollados.</span>
             <div className={styles.contenedor_logos}>
-                <img src={html} alt='html' className={styles.logos}/>
+            <img src={html} alt='html' className={styles.logos}/>
                 <img src={css} className={styles.logos}/>
                 <img src={js} className={styles.logos}/>
+                <img src={vue} className={styles.logos}/>
                 <img src={react} className={styles.logos}/>
                 <img src={mysql} className={styles.logos}/>
                 <img src={php} className={styles.logos}/>
