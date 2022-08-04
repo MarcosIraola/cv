@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/cv/static/css/main.26962a50.chunk.css",
-    "main.js": "/cv/static/js/main.56157833.chunk.js",
-    "main.js.map": "/cv/static/js/main.56157833.chunk.js.map",
+    "main.css": "/cv/static/css/main.8faf1630.chunk.css",
+    "main.js": "/cv/static/js/main.36a3b640.chunk.js",
+    "main.js.map": "/cv/static/js/main.36a3b640.chunk.js.map",
     "runtime-main.js": "/cv/static/js/runtime-main.c17789b0.js",
     "runtime-main.js.map": "/cv/static/js/runtime-main.c17789b0.js.map",
     "static/css/2.767b8a0c.chunk.css": "/cv/static/css/2.767b8a0c.chunk.css",
-    "static/js/2.1272b566.chunk.js": "/cv/static/js/2.1272b566.chunk.js",
-    "static/js/2.1272b566.chunk.js.map": "/cv/static/js/2.1272b566.chunk.js.map",
+    "static/js/2.bc968d44.chunk.js": "/cv/static/js/2.bc968d44.chunk.js",
+    "static/js/2.bc968d44.chunk.js.map": "/cv/static/js/2.bc968d44.chunk.js.map",
     "index.html": "/cv/index.html",
-    "precache-manifest.710b548a8eb91f106560999c68d6578c.js": "/cv/precache-manifest.710b548a8eb91f106560999c68d6578c.js",
+    "precache-manifest.209835d663e502dac384cde49580c4e8.js": "/cv/precache-manifest.209835d663e502dac384cde49580c4e8.js",
     "service-worker.js": "/cv/service-worker.js",
     "static/css/2.767b8a0c.chunk.css.map": "/cv/static/css/2.767b8a0c.chunk.css.map",
-    "static/css/main.26962a50.chunk.css.map": "/cv/static/css/main.26962a50.chunk.css.map",
-    "static/js/2.1272b566.chunk.js.LICENSE.txt": "/cv/static/js/2.1272b566.chunk.js.LICENSE.txt",
+    "static/css/main.8faf1630.chunk.css.map": "/cv/static/css/main.8faf1630.chunk.css.map",
+    "static/js/2.bc968d44.chunk.js.LICENSE.txt": "/cv/static/js/2.bc968d44.chunk.js.LICENSE.txt",
     "static/media/MarcosIraola.png": "/cv/static/media/MarcosIraola.797714c0.png",
-    "static/media/MarcosIraolaEN.pdf": "/cv/static/media/MarcosIraolaEN.1d554199.pdf",
-    "static/media/MarcosIraolaES.pdf": "/cv/static/media/MarcosIraolaES.6fe15fa0.pdf",
+    "static/media/MarcosIraolaEN.pdf": "/cv/static/media/MarcosIraolaEN.8397cf19.pdf",
+    "static/media/MarcosIraolaES.pdf": "/cv/static/media/MarcosIraolaES.743718da.pdf",
     "static/media/android.png": "/cv/static/media/android.477b0618.png",
     "static/media/css.png": "/cv/static/media/css.75e4d6d5.png",
     "static/media/firebase.png": "/cv/static/media/firebase.1da029b3.png",
@@ -34,8 +34,8 @@
   "entrypoints": [
     "static/js/runtime-main.c17789b0.js",
     "static/css/2.767b8a0c.chunk.css",
-    "static/js/2.1272b566.chunk.js",
-    "static/css/main.26962a50.chunk.css",
-    "static/js/main.56157833.chunk.js"
+    "static/js/2.bc968d44.chunk.js",
+    "static/css/main.8faf1630.chunk.css",
+    "static/js/main.36a3b640.chunk.js"
   ]
 }
