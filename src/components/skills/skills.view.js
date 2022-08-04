@@ -34,12 +34,12 @@ const Skills = ({idioma}) => {
                 <img src={js} className={styles.logos}/>
             </div>
             <div className={styles.row}>
+                <img src={github} className={styles.logos}/>
                 <img src={php} className={styles.logos}/>
                 <img src={mysql} className={styles.logos}/>
-                <img src={github} className={styles.logos}/>
+                <img src={laravel} className={styles.logos}/>
             </div>
             <div className={styles.row}>
-                <img src={laravel} className={styles.logos}/>
                 <img src={ps} className={styles.logos}/>
                 <img src={premier} className={styles.logos}/>
             </div>
