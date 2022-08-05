@@ -14,7 +14,7 @@ import 'antd/dist/antd.css';
 
 function App() {
 
-  const [data, setData] = useState('ES');
+  const [data, setData] = useState('EN');
 
   const handleInputChange = () => {
         if(data == 'EN'){
