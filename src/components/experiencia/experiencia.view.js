@@ -81,7 +81,7 @@ const ExperienciaProfesional = ({idioma}) => {
                 <img src={react} className={styles.logos}/>
             </div>
 
-            <h2>2020 - : como freelancer</h2>
+            <h2>Desde 2020: como freelancer</h2>
             <span>Diseño web e implementación.</span>
             <span className={styles.proyecto}>Varios proyectos desarrollados.</span>
             <div className={styles.contenedor_logos}>
